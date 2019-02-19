@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/priyankasaggu11929/FirstProject/_apis/build/status/Priyankasaggu11929.pipelines-python-django?branchName=master)](https://dev.azure.com/priyankasaggu11929/FirstProject/_build/latest?definitionId=1&branchName=master)
+
 # Sample Python app for Azure Pipelines docs
 
 For information on how to use this repository, see [Python](https://docs.microsoft.com/azure/devops/pipelines/languages/python).
